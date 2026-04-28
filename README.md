@@ -8,7 +8,7 @@ Security & DevSecOps Enthusiast
 ---
 
 ### Experience
-- **9+ years** in networking (routing/switching, Cisco/Juniper ecosystems)  
+- **9+ years** in networking (routing/switching, Cisco)  
 - **5+ years** in Django Backend Development (DRF, REST APIs, PostgreSQL)  
 - **5+ years** in DevOps: CI/CD, Infrastructure as Code, Automation & Cloud-Native Systems
 
